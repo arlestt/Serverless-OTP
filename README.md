@@ -15,7 +15,7 @@ Serverless-OTP-System is a web based OTP system for Email Verification.
 
 ## Screenshots
 
-![Sign Up Page](imgs\1.png)
+![Sign Up Page](./imgs/1.png)
 ![Verify Page](D:\GitHub\Serverless-OTP-system\Serverless-OTP-system-frontend-master\2.png)
 ![Alert Message](D:\GitHub\Serverless-OTP-system\Serverless-OTP-system-frontend-master\3.png)
 ![Alert Message](D:\GitHub\Serverless-OTP-system\Serverless-OTP-system-frontend-master\4.png)
